@@ -41,3 +41,7 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: eugenek19/python-helloworld:latest
+          
+          
+          
+          
